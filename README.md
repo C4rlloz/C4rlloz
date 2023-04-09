@@ -30,4 +30,4 @@
   </div>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
     
-  ![Snake animation](https://github.com/C4rlloz/C4rlloz/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafabelerini/C4rlloz/blob/output/github-contribution-grid-snake.svg)

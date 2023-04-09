@@ -27,9 +27,6 @@
     <a href="https://github.com/C4rlloz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C4rlloz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4rlloz&layout=compact&langs_count=16&theme=dracula"/>
-  </div>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-    
-<div>
+
   ![Snake animation](https://github.com/C4rlloz/C4rlloz/blob/output/github-contribution-grid-snake.svg)
 </div>    

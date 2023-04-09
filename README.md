@@ -1,16 +1,5 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Eu sou o C4rlloz</h1>
 
-
-<!--
-- 🌱 Estudando: Desenvolvimento de sistemas
-- 😄 Pronomes: ele/dele
-
-<div>
-  <a href="https://github.com/C4rlloz">
-  
-</div>
--->
-
 ## 📚 Linguagens e Ferramentas:
 
 <p align="left"> 
@@ -27,6 +16,8 @@
     <a href="https://github.com/C4rlloz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C4rlloz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4rlloz&layout=compact&langs_count=16&theme=dracula"/>
-
+  
+  </div>
+  
   ![Snake animation](https://github.com/C4rlloz/C4rlloz/blob/output/github-contribution-grid-snake.svg)
-</div>    
+ 

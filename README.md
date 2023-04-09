@@ -29,3 +29,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4rlloz&layout=compact&langs_count=16&theme=dracula"/>
   </div>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+    
+  ![Snake animation](https://github.com/C4rlloz/C4rlloz/blob/output/github-contribution-grid-snake.svg)

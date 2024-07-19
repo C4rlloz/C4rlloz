@@ -10,14 +10,9 @@
   <a href="https://reactnative.dev/docs/getting-started" target="_blank" > <img src="https://imgs.search.brave.com/6JKBNocqeGZNecDy_Mwm9bjeMh_AgUF3Qi_6YBOts7U/rs:fit:1200:1043:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9hL2E3L1Jl/YWN0LWljb24uc3Zn/LzEyMDBweC1SZWFj/dC1pY29uLnN2Zy5w/bmc"  width=55" height="48"/> </a> 
   
   </p>
+ 
+
   
-  ## 📊 Meu Github Status:
-  <div>
-    <a href="https://github.com/C4rlloz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C4rlloz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4rlloz&layout=compact&langs_count=16&theme=dracula"/>
-  
-  </div>
   
 
  
